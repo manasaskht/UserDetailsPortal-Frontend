@@ -1,0 +1,20 @@
+.card-body
+{
+background: #9fa8da;
+}
+.col-md-12
+{
+    margin:5px;
+}
+button
+{
+  background: green;
+  margin-left:8px;  
+}
+.container
+{
+text-align: center;
+}
+h2{
+    margin-left:40px;
+}
